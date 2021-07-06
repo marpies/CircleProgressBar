@@ -5,8 +5,8 @@ Circle Progress Bar iOS Control.
 
 Require iOS 7.0+ or tvOS 9.0+
 
-![CircleProgressBar Screenshot-iOS-Example](https://raw.githubusercontent.com/Eclair/CircleProgressBar/master/Screenshots/ios-screen01.png)
-![CircleProgressBar Screenshot-iOS-Example2](https://raw.githubusercontent.com/Eclair/CircleProgressBar/master/Screenshots/ios-screen02.png)
+![CircleProgressBar Screenshot-iOS-Example](Screenshots/ios-screen01.png)
+![CircleProgressBar Screenshot-iOS-Example2](Screenshots/ios-screen02.png)
 
 Installation
 ============
@@ -136,7 +136,7 @@ circleProgressBar.setHintAttributedGenerationBlock(generationBlock: AttributedSt
 
 If you using Interface Builder, you can take an advantage of Xcode 6 live render with IBDesignable and IBInspectable features to customize control:
 
-![CircleProgressBar Screenshot-Xcode-InterfaceBuilder](https://raw.githubusercontent.com/Eclair/CircleProgressBar/master/Screenshots/xcode-screen01.png)
+![CircleProgressBar Screenshot-Xcode-InterfaceBuilder](Screenshots/xcode-screen01.png)
 
 License (MIT)
 =============
